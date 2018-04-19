@@ -3,7 +3,7 @@
       "ecmaVersion": 6,
       "sourceType": "module"
   },
-  "extends": "eslint:recommended",
+  "extends": "airbnb",
   "env": {
     "browser": true,
     "jquery": true,
